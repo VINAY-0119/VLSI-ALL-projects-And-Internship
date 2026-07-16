@@ -1,0 +1,3 @@
+#!/bin/sh -f
+/home/install/ASSURA41/tools.lnx86/assura/bin/assura /home/student/Prejith/Op_Amp.rsf -cdslib /home/student/cds.lib -restart -gui
+exit $?

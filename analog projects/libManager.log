@@ -1,0 +1,21 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 03/31/2021 15:41 (sjfdcl1031) $
+\o Sub version:		sub-version  s184 
+\o Arguments:		-unmapped -mpssession virtuoso29322 -mpshost cad5 
+\o Working Directory:	cad5:/home/student/Desktop/analog
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o changeWorkingDir("/home/student/Desktop/analog") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/student/Desktop/analog/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\w Warning: The directory: '/home/student/prejith' does not exist
+\w 	but was defined in libFile '/home/student/cds.lib' for Lib 'prejith'.
+\a nrResizeWindow(cdsLibManager list(0 28 1440 723))
+\a nrSetCurrentWindow(cdsLibManager)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)

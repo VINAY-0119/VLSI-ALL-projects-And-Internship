@@ -1,0 +1,14 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'Op_Amp layout Prejith':
+  info: Assign pin label "vint" at (0.3800, 4.6100) to layer `metal3_conn'.
+  info: Assign pin label "vint" at (0.3800, 5.8600) to layer `metal3_conn'.
+  info: Assign pin label "vout" at (8.9900, 3.9950) to layer `metal3_conn'.
+  info: Assign pin label "vin-" at (5.8800, 5.2350) to layer `metal2_conn'.
+  info: Assign pin label "vin+" at (7.9700, 5.0300) to layer `metal2_conn'.
+  info: Assign pin label "gnd" at (7.4350, 0.1400) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.1050, 6.8800) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

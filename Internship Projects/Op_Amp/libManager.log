@@ -1,0 +1,18 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 03/31/2021 15:41 (sjfdcl1031) $
+\o Sub version:		sub-version  s184 
+\o Arguments:		-unmapped -mpssession virtuoso3951 -mpshost cad5 
+\o Working Directory:	cad5:/run/media/student/USB DRIVE/Prejith/Op_Amp
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o changeWorkingDir("/run/media/student/USB DRIVE/Prejith/Op_Amp") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/run/media/student/USB DRIVE/Prejith/Op_Amp/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(0 28 1440 723))
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o libManager is exiting.
